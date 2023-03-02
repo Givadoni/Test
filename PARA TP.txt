@@ -1,0 +1,3 @@
+Ruleta: ingresar a la app, cargar nombre de usuario y género, seleccionar icono de ruleta, prsionar botón gira
+Validar funcionamiento del botón gira
+Resultado esperado que gire sólo una vez al día, que coincida el m
